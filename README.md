@@ -1,6 +1,8 @@
 # DonutASCII-Edition-Java-v1.0
 🍩 DonutASCII Edition Java ☕️
 
+![Uploading Captura de pantalla 2025-02-08 a la(s) 9.11.04 p.m..png…]()
+
 DonutASCII Edition Java is an executable Java version of the classic 3D rotating ASCII donut animation. Originally, DonutASCII existed as a script running in the terminal, but this version enhances the experience with a graphical interface using JPanel and Graphics, providing a more immersive visualization.
 
 Powered by Charmander58.
@@ -14,7 +16,6 @@ Powered by Charmander58.
 🛠️ Requirements
 
 To run DonutASCII Edition Java, you need:
-![Uploading Captura de pantalla 2025-02-08 a la(s) 9.11.04 p.m..png…]()
 
 🔹 Java SE 23 (JDK installed).
 🔹 Compatible operating systems: Windows, macOS or Linux.
