@@ -16,4 +16,4 @@ Powered by Charmander58.
 To run DonutASCII Edition Java, you need:
 
 🔹 Java SE 23 (JDK installed).
-🔹 Compatible operating systems: Windows, macOS, or Linux.
+🔹 Compatible operating systems: Windows, macOS or Linux.
