@@ -14,6 +14,7 @@ Powered by Charmander58.
 🛠️ Requirements
 
 To run DonutASCII Edition Java, you need:
+![Uploading Captura de pantalla 2025-02-08 a la(s) 9.11.04 p.m..png…]()
 
 🔹 Java SE 23 (JDK installed).
 🔹 Compatible operating systems: Windows, macOS or Linux.
