@@ -1,7 +1,7 @@
-# DonutASCII-Edition-Java-v1.0
+# DonutASCII-Edition-Java-v1.1
 🍩 DonutASCII Edition Java ☕️
 
-![Captura de pantalla 2025-02-08 a la(s) 9 11 04 p m](https://github.com/user-attachments/assets/d0e40569-d556-4600-87c9-f5ed44e32d4d)
+![Captura de pantalla 2025-02-11 a la(s) 12 01 20 a m](https://github.com/user-attachments/assets/a916c151-ecc2-4d44-bd09-366f93b2fee7)
 
 DonutASCII Edition Java is an executable Java version of the classic 3D rotating ASCII donut animation. Originally, DonutASCII existed as a script running in the terminal, but this version enhances the experience with a graphical interface using JPanel and Graphics, providing a more immersive visualization.
 
