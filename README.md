@@ -1,4 +1,4 @@
-# DonutASCII-Edition-Java-v1.1
+# DonutASCII-Edition-Java-v1.2
 🍩 DonutASCII Edition Java ☕️
 
 ![Captura de pantalla 2025-02-11 a la(s) 12 01 20 a m](https://github.com/user-attachments/assets/a916c151-ecc2-4d44-bd09-366f93b2fee7)
@@ -17,7 +17,7 @@ Powered by Charmander58.
 
 To run DonutASCII Edition Java, you need:
 
-🔹 Java SE 23 (JDK installed).
+🔹 Java 8.
 🔹 Compatible operating systems: Windows, macOS or Linux.
 
 Code by Charmander58 | Music by Jogeir Liljedahl
